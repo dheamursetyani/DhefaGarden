@@ -1,0 +1,72 @@
+.warna1 {
+    background-color: #0f969c;
+}
+.warna1:hover {
+    background-color: #213a57;
+    color: whitesmoke;
+}
+.warna2 {
+    background-color: #14919b;
+}
+.banner {
+    height: 70vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../image/syg.png");
+}
+.highlight-kategori {
+    height: 250px;
+}
+.kategori-bunga {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../image/anggrek.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.kategori-daun {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../image/monstera.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.kategori-akar {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../image/ulumus\ cina.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.no-decoration {
+    text-decoration: none;
+    color: white;
+}
+.no-decoration:hover {
+    color: #14919b;
+}
+.image-box {
+    height: 200px;
+    overflow: hidden;
+}
+.image-box img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+.banner2 {
+    height: 40vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../image/syg.png");
+}
+.banner3 {
+    height: 60vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../image/syg2.png");
+    background-position: bottom;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.content-follow {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+.content-follow a {
+    color: #fff;
+}
+.produk-terkait-image {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
